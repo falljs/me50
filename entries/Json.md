@@ -1,0 +1,1 @@
+JavaScript Object Notation est un format de données textuel dérivé de la notation des objets du langage JavaScript. Il concurrence XML pour la représentation et la transmission d’information structurée.

@@ -1,0 +1,1 @@
+Cobol est un langage de programmation créé en 1959. Son nom est l'acronyme de COmmon Business Oriented Language
